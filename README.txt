@@ -2,7 +2,7 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- * About Drupal
+ * About Drupall
  * Configuration and features
  * Installation profiles
  * Appearance
